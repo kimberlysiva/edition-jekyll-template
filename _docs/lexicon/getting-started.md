@@ -2,6 +2,7 @@
 title: Getting Started
 category: Lexicon
 order: 1
+header-image: /images/lexicon logo 2.png
 ---
 
 Getting started with Mixspace Lexicon for Unity
